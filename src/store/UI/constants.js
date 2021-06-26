@@ -1,0 +1,3 @@
+export const SET_THEME_MODE = 'SET_THEME_MODE';
+export const SET_MODAL_CONFIRM = 'SET_MODAL_CONFIRM';
+export const SET_MODAL_VIEW = 'SET_MODAL_VIEW';
